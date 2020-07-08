@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/cblack"/>
+
+    <!-- 특정 기종은 src를 인식하지 못함-->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_launcher"/>
+    </item>
+<!--    <item-->
+<!--        android:gravity="center"-->
+<!--        android:drawable="@drawable/splashloding"/>-->
+</layer-list>

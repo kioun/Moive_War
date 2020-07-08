@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="240dp"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:layout_gravity="start">
+
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="home"/>
+
+    <TextView
+        android:layout_margin="20dp"
+        android:layout_gravity="start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="매장안내"/>
+
+    <TextView
+        android:id="@+id/navi_close"
+        android:layout_margin="20dp"
+        android:layout_gravity="start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="닫기"/>
+</LinearLayout>

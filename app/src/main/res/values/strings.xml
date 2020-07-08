@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="admob_app_id">ca-app-pub-9265826547932231~4158215863</string>
+    <string name="admob_banner_id">ca-app-pub-9265826547932231/5801991090</string>
+    <string name="admob_banner_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
