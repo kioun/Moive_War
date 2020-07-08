@@ -40,7 +40,7 @@ public class FragBoxoffice extends Fragment {
     private MovieInterface movieInterface;
     RecyclerView boxoffice_recycler;
 
-    String API_KEY = "9ec42b0bd6e33615d44e34fd8576d0f6";
+    String API_KEY = "APIKEY";
 
     List<DailyBoxOfficeList> dailyBoxOfficeLists = new ArrayList<>();
     BoxOfficeAdapter boxOfficeAdapter;
