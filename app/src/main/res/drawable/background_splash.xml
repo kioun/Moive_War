@@ -2,14 +2,14 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:drawable="@color/cblack"/>
+        android:drawable="@drawable/mw_image1"/>
 
     <!-- 특정 기종은 src를 인식하지 못함-->
-    <item>
-        <bitmap
-            android:gravity="center"
-            android:src="@drawable/ic_launcher"/>
-    </item>
+<!--    <item>-->
+<!--        <bitmap-->
+<!--            android:gravity="center"-->
+<!--            android:src="@drawable/ic_launcher"/>-->
+<!--    </item>-->
 <!--    <item-->
 <!--        android:gravity="center"-->
 <!--        android:drawable="@drawable/splashloding"/>-->
