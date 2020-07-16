@@ -11,6 +11,7 @@
 - Okhttp 사용
 - Gson 사용
 - Glide 사용
+- admob 사용
 
 ## BoxOffice
 
