@@ -1,5 +1,5 @@
 # Moive_War
-- REST API를 활용한 영화앱
+- API를 활용한 박스오피스 및 영화 검색 
 
 ![20200716184731](https://user-images.githubusercontent.com/52917127/87656752-dcb29600-c794-11ea-86e3-bc32de83c6fc.png)
 
