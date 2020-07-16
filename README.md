@@ -13,7 +13,8 @@
 - Gson 사용
 - Glide 사용
 
-![20200716184141](https://user-images.githubusercontent.com/52917127/87656219-28187480-c794-11ea-9324-d5dac9a8adaf.png)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/52917127/87657583-fbfdf300-c795-11ea-8214-e261b55be417.gif)
+
 
 
 
