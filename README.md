@@ -1,6 +1,6 @@
 # Moive_War
 
-![20200716184141](https://user-images.githubusercontent.com/52917127/87656219-28187480-c794-11ea-9324-d5dac9a8adaf.png)
+![20200716184731](https://user-images.githubusercontent.com/52917127/87656752-dcb29600-c794-11ea-86e3-bc32de83c6fc.png)
 
 ## REST API를 활용한 영화앱
 
@@ -12,6 +12,8 @@
 - Okhttp 사용
 - Gson 사용
 - Glide 사용
+
+![20200716184141](https://user-images.githubusercontent.com/52917127/87656219-28187480-c794-11ea-9324-d5dac9a8adaf.png)
 
 
 
