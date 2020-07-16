@@ -2,6 +2,7 @@
 
 ## REST API를 활용한 영화앱
 
+![Screenshot_1593782825](https://user-images.githubusercontent.com/52917127/87654681-3f566280-c792-11ea-9a36-ae9636da58be.png)
 
 
 
