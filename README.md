@@ -34,7 +34,7 @@ String API_KEY = "apikey";
 ## 네이버 API
 
 ```
-
+@Headers({"X-Naver-Client-Id: apikey", "X-Naver-Client-Secret: apikey"})
 ```
 
 
